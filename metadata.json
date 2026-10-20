@@ -1,0 +1,6 @@
+{
+  "name": "شفاخانه تخصصی رایان دانش | Rayan Danish Specialized Hospital",
+  "description": "وب‌سایت رسمی شفاخانه تخصصی رایان دانش در کابل (برچی) — خدمات تخصصی لاپراسکوپی، اندویورولوژی، اندوسکوپی، کولونوسکوپی، داخله عمومی، نسایی و ولادی، اطفال، لابراتوار و رادیولوژی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
